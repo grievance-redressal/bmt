@@ -1,2 +1,1 @@
-# mobirise
-GitHub Pages
+# grievance
